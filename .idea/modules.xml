@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JpaTest01/JpaTest01.iml" filepath="$PROJECT_DIR$/JpaTest01/JpaTest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JpaTest03/JpaTest03.iml" filepath="$PROJECT_DIR$/JpaTest03/JpaTest03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpaTest02/jpaTest02.iml" filepath="$PROJECT_DIR$/jpaTest02/jpaTest02.iml" />
+    </modules>
+  </component>
+</project>
